@@ -33,7 +33,7 @@ Item 4
 
 Item 5
 <p align="center">
-  <img src='image url' alt='image name' width="700"/>
+  <img src=https://github.com/t1pen/Group-4-CSE-Laboratory-Activity-1/assets/157677365/646a7263-4198-409f-b002-7281d1c0f432 alt=Item_5 width="700"/>
 </p>
 <br>
 
