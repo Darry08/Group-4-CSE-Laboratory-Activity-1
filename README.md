@@ -27,7 +27,7 @@ Item 3
 
 Item 4
 <p align="center">
-  <img src='image url' alt='image name' width="700"/>
+  <img src=https://github.com/t1pen/Group-4-CSE-Laboratory-Activity-1/assets/157677365/3ce87f6b-6ad9-4537-9eb3-c61d9bd87a89 alt=Item_4 width="700"/>
 </p>
 <br>
 
