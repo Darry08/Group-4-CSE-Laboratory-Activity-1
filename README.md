@@ -59,7 +59,7 @@ This is the Laboratory Activity 1 for the course Control System Engineering.
 
 <p align="center"> Item 3 </p>
 <p align="center">
-  <img src='image url' alt='image name' width="700"/>
+  <img src='https://github.com/t1pen/Group-4-CSE-Laboratory-Activity-1/blob/main/Written%20Computations/Item_9.jpeg' alt='image name' width="700"/>
 </p>
 <br>
 
