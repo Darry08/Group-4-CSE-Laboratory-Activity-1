@@ -15,7 +15,7 @@ This is the Laboratory Activity 1 for the course Control System Engineering.
 
 <p align="center"> Item 2 </p>
 <p align="center">
-  <img src='image url' alt='image name' width="700"/>
+  <img src='https://github.com/t1pen/Group-4-CSE-Laboratory-Activity-1/blob/87b4fcf258f862c63ceccbcd8394156d5d13562e/Written%20Computations/Item_2.jpg' alt='Item_2' width="700"/>
 </p>
 <br>
 
