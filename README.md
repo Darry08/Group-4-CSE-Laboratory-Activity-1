@@ -47,7 +47,7 @@ This is the Laboratory Activity 1 for the course Control System Engineering.
 ## Assignment 2
 <p align="center"> Item 1 </p>
 <p align="center">
-  <img src='image url' alt='image name' width="700"/>
+  <img src= https://github.com/t1pen/Group-4-CSE-Laboratory-Activity-1/assets/157594468/89a6896d-9375-42ab-9998-a6720cb789a5 alt= Item_1 width="700"/>
 </p>
 <br>
 
