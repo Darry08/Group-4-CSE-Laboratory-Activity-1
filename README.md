@@ -65,8 +65,7 @@ This is the Laboratory Activity 1 for the course Control System Engineering.
 
 
 ### Group Members: 
-- Alojado, Stephen Gabriel S.   
-- Apostol, Jan Benedict D.      
+- Alojado, Stephen Gabriel S.       
 - Cardenas, Sofia Bianca J.     
 - Catapang, Jamil Darrius S.    
 - Umali, Ariane Mae D.
